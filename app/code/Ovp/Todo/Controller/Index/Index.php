@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Vasyliuk\Todo\Controller\Index;
+namespace Ovp\Todo\Controller\Index;
 
 use Magento\Framework\App\Action\Action;
 use Magento\Framework\App\Action\HttpGetActionInterface;

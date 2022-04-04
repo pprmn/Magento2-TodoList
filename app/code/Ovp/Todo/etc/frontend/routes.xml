@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
     <router id="standard">
-        <route id="vasyliuk_todo" frontName="vasyliuk_todo">
-            <module name="Vasyliuk_Todo" />
+        <route id="ovp_todo" frontName="ovp_todo">
+            <module name="Ovp_Todo" />
         </route>
     </router>
 </config>

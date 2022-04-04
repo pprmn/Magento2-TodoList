@@ -4,6 +4,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'Vasyliuk_Todo',
+    'Ovp_Todo',
     __DIR__
 );
